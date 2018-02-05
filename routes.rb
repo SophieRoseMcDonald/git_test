@@ -1,1 +1,2 @@
-get '/', to: 'pages#show'
+
+get '/', to: 'pages#index'
